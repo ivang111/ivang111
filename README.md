@@ -1,4 +1,4 @@
-<img src="https://media-exp2.licdn.com/dms/image/C4E16AQH-GBHzq8ATGg/profile-displaybackgroundimage-shrink_200_800/0/1651971275991?e=1662595200&v=beta&t=7Hk1JRLTzP13FhqjAYDRw75exF3tv1bHjXfZ1b7YUD0" alt="banner"  height="250"/>
+<img align="center" src="https://media-exp2.licdn.com/dms/image/C4E16AQH-GBHzq8ATGg/profile-displaybackgroundimage-shrink_200_800/0/1651971275991?e=1662595200&v=beta&t=7Hk1JRLTzP13FhqjAYDRw75exF3tv1bHjXfZ1b7YUD0" alt="banner"  height="100" />
 <h1 align="center">Hi 👋, I'm Ivan Parra</h1>
 <h3 align="center">tengo un gran interés en el desarrollo web y el diseño gráfico, área en la que he logrado trabajar de forma remota para empresas como Eleven Graphic Design en Los Ángeles. CA, en la que desarrollamos proyectos para marcas como First Premium Financial, Imperio Agrupacion, Diana Tellez Realtor, Precision REA, entre otras. Estoy buscando una oportunidad que me permita desarrollar mis habilidades y adquirir más experiencia. Me considero innovador con una mente muy creativa y tengo experiencia liderando proyectos y colecciones para el desarrollo de marca.</h3>
 
